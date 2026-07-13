@@ -1,4 +1,4 @@
-//Groovy Syntex
+// Jenkins Declarative Pipeline
 
 pipeline {
     agent any
